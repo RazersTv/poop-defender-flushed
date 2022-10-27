@@ -1,2 +1,6 @@
 # poop-defender-flushed
-A sequel to the "cult classic" poop defender
+This is the original poop defender jar file. The source code was lost after years of being untouched
+
+# Contributors
+> Luke
+> Jack
