@@ -1,0 +1,11 @@
+- [x] Automatic Screen Sizing
+- [] Lobby Music
+- [] Loading Screen
+- [] Local multiplayer support
+- [] Lobby
+- [] Settings Page
+- [] Actual Game lol
+- [] Make assets for mobs, player one, player two
+- [] Selectable characters
+- [] Local Saves
+- [] Config file
