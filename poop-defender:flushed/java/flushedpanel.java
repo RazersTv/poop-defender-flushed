@@ -7,14 +7,14 @@ import javax.swing.JPanel;
 public class flushedpanel extends JPanel
 {
 	//variables for the overall width and height
-	private int w, h;
+	private int screenwidth, screenheight;
 	
 	//sets up the initial panel for drawing with proper size
-	public flushedpanel(int w, int h)
+	public flushedpanel(int screenwidth, int screenheight)
 	{
-		this.w = w;
-		this.h = h;
-		this.setPreferredSize(new Dimension(w,h));
+		this.screenwidth = screenwidth;
+		this.screenheight = screenheight;
+		this.setPreferredSize(new Dimension(screenwidth,screenheight));
 		
 	}
 	
