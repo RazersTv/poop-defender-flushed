@@ -2,7 +2,7 @@
 - [] Lobby Music
 - [] Loading Screen
 - [] Local multiplayer support
-- [] Lobby
+- [] Lobby Screen (Active lobby screen)
 - [] Settings Page
 - [] Actual Game lol
 - [] Make assets for mobs, player one, player two
