@@ -93,6 +93,7 @@ class MovingForward extends KeyAdapter {
 		char ch = event.getKeyChar();
 
 		if (ch == 'w') {
+			System.out.println("W");
 
 		}
 
